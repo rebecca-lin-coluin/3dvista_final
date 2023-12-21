@@ -1,0 +1,122 @@
+#: locale=zh
+
+## E-Learning
+
+### Answer
+questionOption_9D7AF85D_8BEA_A627_41B8_56AC7B511C6F.text = 113
+questionOption_9D681E12_8BEA_9A3D_41B1_D66A6CF1F8E5.text = 12
+questionOption_9D749448_8BEA_AE2C_41CD_80374A60D709.text = 14
+questionOption_9DBE0311_8BEA_EA3C_41CA_74228CFA6D23.text = 87
+questionOption_9E4CEBB5_8BDE_FA67_41CE_25C22FCA8370.text = 不知道
+questionOption_9E32739B_8BEF_AA23_4196_F9A72FCAED84.text = 啊哈
+questionOption_9E1B872B_8BDF_AA63_41DD_55490A8514D8.text = 數位系大四校內展
+questionOption_9DF87BE1_8BEF_9A1F_41D8_8FCECF6AFDB1.text = 璃兒
+questionOption_9DF392B8_8BDE_AA6D_41B5_3D6BADA3B65D.text = 璃兒個人展
+questionOption_9CA45D39_8BEB_7E6F_41C6_645CD7013F47.text = 陳琇雯
+questionOption_9C910AAF_8BEB_7A63_41D1_E30EE1F26ED2.text = 陳秀紋
+questionOption_9CB94FB3_8BEB_7A63_41E0_14A98CC0ADC6.text = 陳繡文
+questionOption_9DE248E3_8BEF_A61C_41DD_CEA38597EA21.text = 麗兒
+questionOption_9DE4F648_8BEF_AA2C_41DD_3A6798C90C17.text = 黎兒
+
+### Question
+question_9D13B042_8BEE_E61C_41BC_339DD0A0B11E.title = 布條上的美少女叫什麼名字？
+question_9C83B52B_8BEB_AE6C_41CE_83B0E886D9AA.title = 數數看，展場內有幾個攤位？
+question_9CD13BD6_8BEA_BA24_41D5_492F60DBE72D.title = 系秘的名字是什麼呢？
+question_9D4D8D84_8BDE_9E25_41DE_CB680FD6A204.title = 裡面在辦什麼活動呢？
+
+### Question Screen
+quizQuestion_9E5F52CD_8BDD_AA24_41DC_F027573251EB.ok = OK
+
+### Report Screen
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.title = - SCORE -
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.completion = Completed
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.questionsCorrect = Correct
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.downloadCSV = Download .csv
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.questionsIncorrect = Incorrect
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.items = Items Found
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.questions = Questions
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.repeat = Repeat
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.submitToLMS = Submit
+quizScore_9E5932CD_8BDD_AA24_4198_E05B85DBADAE.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_9E5E42CD_8BDD_AA24_41D8_EB369B231345.title = - TIMEOUT -
+quizTimeout_9E5E42CD_8BDD_AA24_41D8_EB369B231345.repeat = Repeat
+quizTimeout_9E5E42CD_8BDD_AA24_41D8_EB369B231345.score = View Score
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_90294D6B_8CC9_6B5D_41D2_CA51446E4169.url = media/map_978110A9_8C5F_19DD_41D5_6450BC904F60_zh_0.png
+imlevel_902ABD6B_8CC9_6B5D_41DB_99353D43E1B3.url = media/map_978110A9_8C5F_19DD_41D5_6450BC904F60_zh_1.png
+imlevel_902A9D6B_8CC9_6B5D_41AE_762B2EE7A2F2.url = media/map_978110A9_8C5F_19DD_41D5_6450BC904F60_zh_2.png
+imlevel_902A8D6B_8CC9_6B5D_41E1_266B8B599C2F.url = media/map_978110A9_8C5F_19DD_41D5_6450BC904F60_zh_3.png
+imlevel_9027EBE5_8CC9_6F55_41CB_CA8E7B4F03E3.url = media/map_98BAAC33_8C49_28CD_41BF_635E28DB9B8B_zh_0.png
+imlevel_9027DBE5_8CC9_6F55_41DE_0F62CDE78EE3.url = media/map_98BAAC33_8C49_28CD_41BF_635E28DB9B8B_zh_1.png
+imlevel_9027CBE6_8CC9_6F57_41D3_6C81C3FBD61C.url = media/map_98BAAC33_8C49_28CD_41BF_635E28DB9B8B_zh_2.png
+imlevel_9E2E3B71_8C49_2F4D_41C7_F5E4788ABC03.url = media/popup_9103F5FE_8BEE_A9E5_41D9_586063DE71DD_zh_0_0.jpg
+imlevel_9E2E2B71_8C49_2F4D_41D9_B6B20ACF10C7.url = media/popup_9103F5FE_8BEE_A9E5_41D9_586063DE71DD_zh_0_1.jpg
+imlevel_9E2E4B71_8C49_2F4D_41C7_C9031A58E1B2.url = media/popup_9103F5FE_8BEE_A9E5_41D9_586063DE71DD_zh_0_2.jpg
+imlevel_9E2E7B71_8C49_2F4D_41CB_DA13C10C989C.url = media/popup_9103F5FE_8BEE_A9E5_41D9_586063DE71DD_zh_0_3.jpg
+
+### Popup Image
+
+### Title
+video_99CA0A45_8C4F_2955_41B1_EE9DA7DB2C78.label = 12月21日
+album_9D37C3F1_8BDD_69FF_41CD_EBC4AB134897.label = Photo Album 布條
+panorama_9B47B666_8BAB_6E6F_41BB_7150D21C8112.label = 展場ASI攤位
+panorama_845B6AF2_8BAB_6667_41C8_C9F1F73E94C8.label = 展場中央
+panorama_845ACE77_8BAB_7E6D_41DC_52AA0CAD2797.label = 展場主視覺布條
+panorama_81C491B7_8BAB_A2ED_41D7_926EAA7EFD98.label = 展場出入口
+panorama_81DB451B_8BAB_A3A5_41AF_12B13432BB98.label = 展場服務台視角
+album_9D37C3F1_8BDD_69FF_41CD_EBC4AB134897_0.label = 布條
+map_98BAAC33_8C49_28CD_41BF_635E28DB9B8B.label = 平面圖_1F
+map_978110A9_8C5F_19DD_41D5_6450BC904F60.label = 平面圖_4F
+panorama_9AD07452_8BB7_A1A4_41C8_B650DE8365DE.label = 求真四樓1
+panorama_982CDCB5_8BB5_62ED_41D8_2C41D228A330.label = 求真四樓2
+panorama_98DFCF04_8BB6_BFAC_41D2_E7C5187B58FB.label = 求真四樓3
+panorama_999167FA_8BB6_AE67_41DC_A57B76BA3BDF.label = 求真四樓4
+panorama_99910102_8BB6_E3A4_41D2_E79550EF6D88.label = 求真四樓5
+panorama_999069BF_8BB6_E2DC_41E0_0E332A452FDE.label = 求真四樓6
+panorama_99907246_8BB6_E1AF_41CD_50E881223B2B.label = 求真四樓7
+video_9968E3D9_8C7B_1F7D_41CD_A441D5114B6B.label = 璃兒
+
+### Video
+videolevel_90265BBD_8CC9_6F35_4196_5A798C11C32C.posterURL = media/video_9968E3D9_8C7B_1F7D_41CD_A441D5114B6B_poster_zh.jpg
+videolevel_90265BBD_8CC9_6F35_4196_5A798C11C32C.url = media/video_9968E3D9_8C7B_1F7D_41CD_A441D5114B6B_zh.mp4
+videolevel_9029FD40_8CC9_6B4B_41C8_92BD7930CCC8.posterURL = media/video_99CA0A45_8C4F_2955_41B1_EE9DA7DB2C78_poster_zh.jpg
+videolevel_9029FD40_8CC9_6B4B_41C8_92BD7930CCC8.url = media/video_99CA0A45_8C4F_2955_41B1_EE9DA7DB2C78_zh.mp4
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_9DCC1325_8BFA_EA64_41DA_E8859E412CD3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:28px;font-family:'微軟正黑體';"><B>405</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'微軟正黑體';">創作藝術作品的教室，不過椅子很硬</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_9376C535_8BFA_EE67_41D2_1EDB5C147FBF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:28px;font-family:'微軟正黑體';"><B>406</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'微軟正黑體';">攝影棚，裡面有許多拍攝的器材</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_9CEF5F1B_8BFA_BA23_41AE_0B68455EE75D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:28px;font-family:'微軟正黑體';"><B>408a</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'微軟正黑體';">3D列印機以及雷射切割機所在的房間，幫助系上同學將創意實踐出來</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_934087CA_8BF6_AA2D_41E1_6FE7D07482B2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:28px;font-family:'微軟正黑體';"><B>409</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'微軟正黑體';">會議室(就只是一間會議室，沒事也不會去)</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_9C0CC5EA_8BF7_A9EC_41AC_0463CDB98E7A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:28px;font-family:'微軟正黑體';"><B>410</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'微軟正黑體';">大家常用的電腦教室</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_9CED447D_8BF5_6EE7_41D4_7B4221DBBEB7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:28px;font-family:'微軟正黑體';"><B>系辦</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'微軟正黑體';">都說了是系辦，這也要解釋?</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_85914E2D_8BEE_0797_41E1_3B734DBC9A7C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:28px;font-family:'微軟正黑體';"><B>電梯口出去左邊</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'微軟正黑體';">這不是常用到的生活圈就不介紹了</SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_934EE7C9_8BF6_AA2F_41D2_2B8FFA99C70D.title = 教室介紹
+window_9CEF647D_8BF5_6EE7_41E0_8B8DE864FA28.title = 教室介紹
+window_9C0D15EA_8BF7_A9EC_41CB_7AF60CE2594A.title = 教室介紹
+window_8591AE2C_8BEE_0795_41BA_7536D89B59B6.title = 教室介紹
+window_9CE10F1B_8BFA_BA23_41DC_9B3C13A3B1A0.title = 教室介紹
+window_9DCC7325_8BFA_EA64_41D1_275342F1530D.title = 教室介紹
+window_9348F535_8BFA_EE67_41DA_4A982ABB5828.title = 教室介紹
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
